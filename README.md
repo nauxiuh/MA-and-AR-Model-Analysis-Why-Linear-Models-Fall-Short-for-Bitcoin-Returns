@@ -5,7 +5,7 @@ This project works through the theory of MA(2) and AR(2) time series models and 
 ## Repository Structure
 
 ```
-├── FinancialDataAnalysis.ipynb             # Main analysis notebook
+├── FinancialDataAnalysis3.ipynb             # Main analysis notebook
 └── data/
     └── bitcoin_data.csv                    # Bitcoin adjusted close prices
 ```
